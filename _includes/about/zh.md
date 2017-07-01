@@ -1,17 +1,28 @@
-> 写写代码，做做设计，  
+> 求学之北方，混迹于南洋  
 > 离开世界之前，一切都是过程。
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+朱渊博，特普通一人，渊为深，博为广，一直努力做一个有深度有广度的人。多混迹于Github, STackoverflow, ITeye, 知乎, Linkedin 等地带。蹉跎中练就了一身码农好本领。 酷爱编程，但绝不宅。爱生活，爱思考，性情温和但充满激情，做事有主见，信奉读万卷书行万里路。
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+八年互联网应用开发经验，擅长软件架构，大数据处理(能源领域)和网络安全。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](http://https://zhuanlan.zhihu.com/p/21280918)。 
+-  2014.08– 今   供职于南洋理工大学能源研究所， 成立信息技术部，软件开发负责人，副研究员。目前负责NRF最大的单个项目，智能多能源系统的项目管理，关键系统开发，采购和预算管理。 先前完成EDB资助的节能校园系统的开发，系统降低了15%的能源消耗。 
 
 
-##### Talks
+| 项目名称 | 项目描述 | 项目来源 | 资金年限 |
+|:--------|:-------|:--------|:--------|
+| Smart multi-energy system 智能多能源系统   | Industrial park operating cost savings witd multi-energy grids 针对工业园区整合多种能源系统，目标降低能耗30%以上   | NRF 新加坡自然科学基金委   | 18.6m SGD <br>2015-2020|
+|Ecocampus 节能校园|Urban energy efficiency in buildings and smart cities 提升高校和商业楼宇以及居民区能源利用率，目标5年内降低能耗35%|EDB 新加坡经济发展局|20.1m SGD<br>2013-2018|
+		
 
-- [Service Worker 101](//huangxuan.me/2016/11/20/sw-101-gdgdf/) · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章](//huangxuan.me/2016/10/20/qcon-2016/) · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- [Progressive Web App 之我见](//huangxuan.me/2016/06/05/pwa-in-my-pov/) · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015](//huangxuan.me/2015/12/28/css-sucks-2015/) · 2015
-- [JavaScript 模块化七日谈](//huangxuan.me/2015/07/09/js-module-7day/) · 2015
+-  2013.06-2014.07  北京市计算中心 研发部    技术经理， 研发工程师 
+
+| 项目名称 | 项目描述 | 项目来源 | 资金年限 |
+|:--------|:-------|:--------|:--------|
+| 工业云服务平台 | 开发了国内首家工业云服务平台，利用北京市计算中心的资源优势，对中小企业提供关于云计算服务http://www.chinahypercloud.com/ | 北京市计算中心 | 35 万<br>六个月 |
+| 云服务计费系统的关键技术研究 | 北京市科委资助的云模式下按需计费的研究，并成功应用于工业云平台上 | 北京市科学技术研究院 | 30万<br>1年 |
+
+-  2010.06-2013.04   天津工业大学    高性能计算中心， 研究生参与两项国家自然科学基金项目：容错处理器网格的高效重构技术(60970016)，可重构环境下软硬件协同设计的算法研究(61173032)。
+
+在国际期刊JCSC,JCIS及会议IPDPS, ICPADS, ISCAS, COMPSAC  等发表论文十余篇，专利2项。  
+
+个人邮箱 [asybzhu@gmail.com](<a href="mailto:asybzhu@gmail.com">)。欲知更多信息[请猛戳这里](<a href="http://freerambo.com/portfolio/">) 

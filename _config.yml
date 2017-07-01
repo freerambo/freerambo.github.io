@@ -1,9 +1,9 @@
 # Site settings
-title: Rambo Blog
+title: Rambo Zhu
 SEOTitle: 朱渊博的博客 | Rambo Zhu Yuanbo Blog
 header-img: img/home-bg.jpg
 email: asybzhu@gmail.com
-description: "关于互联网、软件与创业 | 朱渊博，Web & Mobile Lover，Software Engineer，Architect | 这里是 @RamboZhu朱渊博 的个人博客，与你一起发现更大的世界。"
+description: "关于互联网、软件与创业 | 朱渊博, Web & Mobile, Software Engineer，Architect | 这里是 @RamboZhu朱渊博 的个人博客。"
 keyword: "朱渊博, Zhu Yuanbo, Yuanbo Zhu, Rambo Zhu, freerambo, 朱渊博的博客, @freerambo,  Yuanbo Blog, Rambo Blog 博客, Yuanbo 网站, 互联网, JAVA, 软件开发, 云计算, 潇洒哥"
 url: "http://freerambo.com/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,12 +12,13 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 #RSS: true
-weibo_username:     zybjsj064
-zhihu_username:     freerambo
+linkedin_username:  yuanbozhu
 github_username:    freerambo
+facebook_username:  yuanbo.zhu.1
+weibo_username:     freerambo
+zhihu_username:     rambo-zhu
 #twitter_username:   freerambo
-facebook_username:  freerambo
-linkedin_username:  freerambo
+
 
 
 
@@ -73,7 +74,7 @@ ga_domain: freerambo.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，搞搞事情，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "求学之北方，混迹于南洋，<br>世界这么大，多写写代码"
 sidebar-avatar: /img/avatar-rambo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -93,34 +94,25 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "外刊IT评论",
+        href: "http://www.vaikan.com/"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "ITEYE",
+        href: "http://www.iteye.com/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "黑客派",
+        href: "https://hacpai.com/"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "开源中国",
+        href: "https://www.oschina.net/"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
+        title: "Hux's Blog",
+        href: "https://huangxuan.me"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
+        title: "Freud's Blog",
+        href: "http://www.hifreud.com/"
     },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "前端神盾局",
-        href: "http://wepiaofei.github.io/blog/"
+        title: "Xiaoh's Blog",
+        href: "http://xiaoh.me/"
     }
 ]

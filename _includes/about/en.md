@@ -1,20 +1,29 @@
 
 
-> Yet another Developer & Designer.  
+> Full stack developer,
+> Wannabe Entrepreneur.  
 
 
-Hi, I am Huang, Xuan(黄玄), or Hux. I'm a software engineer & a designer. I built softwares particularly on the Web (👉see [Portfolio](https://huangxuan.me/portfolio) and [Github](https://github.com/huxpro)), and posted about tech at [Twitter](https://twitter.com/Huxpro/) and [Medium.com](https://medium.com/@Huxpro).
-
-I previsouly worked at [Alibaba Trip](https://www.alitrip.com/), then led Front-End Infrastructure Team at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity), and then [worked on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/) as invited consultant.
-
-I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) in 2016, and I will study Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) in 2017.
+Dear friends, welcome to the world of Zhu Yuanbo(朱渊博), or Rambo. Profoundly and broadly as I always be.
+I'm a full stack developer with 8+ years in web applications development, software architecture, cloud computing, Big Data (Energy sector) and cyber security.
 
 
-##### Talks
+- 2014.08– to date, Research Associate with Energy Research Institute @ NTU (ERIAN) Team Leader, founded the ICT Team, in charge of software development. Built the ERIAN Energy Could platform. Currently working on the single largest project from NRF (Singapore). 
+			
+| Project | Description | Fund source | Budget&Schedule |
+|:--------|:-------|:--------|:--------|
+| Smart multi-energy system | Achieved 30% operating cost savings of industrial parks with intelligent multi-energy systems   | National Research Foundation (NRF)  | 18.6m SGD <br>2015-2020|
+|Ecocampus |Improved Urban energy efficiency in buildings and smart cities by 35% in 5 years|Singapore Economic Development Board (EDB)|20.1m SGD<br>2013-2018|
 
-- [Service Worker 101](//huangxuan.me/2016/11/20/sw-101-gdgdf/) · GDG DevFest Beijing 2016
-- [Progressive Web Apps](//huangxuan.me/2016/10/20/qcon-2016/) · QCon Shanghai 2016
-- [Progressive Web App in my POV](//huangxuan.me/2016/06/05/pwa-in-my-pov/) · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015](//huangxuan.me/2015/12/28/css-sucks-2015/) · 2015
-- [JavaScript Modularization Journey](//huangxuan.me/2015/07/09/js-module-7day/) · 2015
+-  2013.06-2014.07  北京市计算中心 研发部    技术经理， 研发工程师 
 
+| Project | Description | Fund source | Budget&Schedule |
+|:--------|:-------|:--------|:--------|
+| Industrial Cloud Services Platform | Developed the first national industrial cloud services platform. Providing the computing services of BCC to SMEs http://www.chinahypercloud.com/ | Beijing Computing Centre | 350K <br>6 Months |
+| Billing Platform for Cloud Services  | Took initiative on research of on-demand billing system for cloud service and successfully applied into the Industrial cloud service platform. | Beijing Academy of Science and Technology | 300K <br>1 Year |
+
+-  2010.06-2013.04   High Performance Computing Center @ TJPU, participated in two research projects of NRF (China) with NO. 60970016 and 61173032.
+
+Published more than 10 academic pages on international journals and conferences. Filed 2 Patents.
+
+Email: [asybzhu@gmail.com](<a href="mailto:asybzhu@gmail.com">). More info can be retrieved [here](<a href="http://freerambo.com/portfolio/">) 
