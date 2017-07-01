@@ -15,7 +15,7 @@ I'm a full stack developer with 8+ years in web applications development, softwa
 | Smart multi-energy system | Achieved 30% operating cost savings of industrial parks with intelligent multi-energy systems   | National Research Foundation (NRF)  | 18.6m SGD <br>2015-2020|
 |Ecocampus |Improved Urban energy efficiency in buildings and smart cities by 35% in 5 years|Singapore Economic Development Board (EDB)|20.1m SGD<br>2013-2018|
 
--  2013.06-2014.07  北京市计算中心 研发部    技术经理， 研发工程师 
+-  2013.06-2014.07, Technical Manager at Dept. R&D, Beijing Computing Centre (BCC) 
 
 | Project | Description | Fund source | Budget&Schedule |
 |:--------|:-------|:--------|:--------|
