@@ -25,4 +25,4 @@
 
 在国际期刊JCSC,JCIS及会议IPDPS, ICPADS, ISCAS, COMPSAC  等发表论文十余篇，专利2项。  
 
-个人邮箱 [asybzhu@gmail.com](<a href="mailto:asybzhu@gmail.com">)。欲知更多信息[请猛戳这里](<a href="http://freerambo.com/portfolio/">) 
+个人邮箱：<asybzhu@gmail.com>。欲知更多信息[请猛戳这里](http://freerambo.com/portfolio)

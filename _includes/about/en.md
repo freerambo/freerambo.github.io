@@ -26,4 +26,4 @@ I'm a full stack developer with 8+ years in web applications development, softwa
 
 Published more than 10 academic pages on international journals and conferences. Filed 2 Patents.
 
-Email: [asybzhu@gmail.com](<a href="mailto:asybzhu@gmail.com">). More info can be retrieved [here](<a href="http://freerambo.com/portfolio/">) 
+Email: <asybzhu@gmail.com>. More info can be retrieved [here](http://freerambo.com/portfolio) 
