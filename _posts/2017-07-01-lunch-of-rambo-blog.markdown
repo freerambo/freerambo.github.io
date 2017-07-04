@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello World, Free Rambo"
 subtitle:   "Lunch of my website. freerambo的网站开通了"
-date:       2015-12-10 02:22:00
+date:       2017-07-01 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
 tags:
