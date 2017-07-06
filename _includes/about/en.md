@@ -19,7 +19,7 @@ I'm a full stack developer with 8+ years in web applications development, softwa
 
 | Project | Description | Fund source | Budget&Schedule |
 |:--------|:-------|:--------|:--------|
-| Industrial Cloud Services Platform | Developed the first national industrial cloud services platform. Providing the computing services of BCC to SMEs http://www.chinahypercloud.com/ | Beijing Computing Centre | 350K <br>6 Months |
+| Industrial Cloud Services Platform | Developed the first national industrial cloud services platform. Providing the computing services of BCC to SMEs <http://www.incloud.org.cn/> | Beijing Computing Centre | 350K <br>6 Months |
 | Billing Platform for Cloud Services  | Took initiative on research of on-demand billing system for cloud service and successfully applied into the Industrial cloud service platform. | Beijing Academy of Science and Technology | 300K <br>1 Year |
 
 -  2010.06-2013.04   High Performance Computing Center @ TJPU, participated in two research projects of NRF (China) with NO. 60970016 and 61173032.
