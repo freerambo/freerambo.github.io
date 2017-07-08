@@ -2,7 +2,7 @@
 layout:     post
 title:      "Read data through Modbus in JAVA (Part 2. RTU)"
 subtitle:   "Use jamod to operate slaves of Modbus RTU"
-date:       2017-07-02 12:00:00
+date:       2017-07-03 12:00:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
 catalog:    true
