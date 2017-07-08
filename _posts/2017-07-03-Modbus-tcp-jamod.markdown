@@ -315,4 +315,5 @@ public static void writeRegister(String ip, int port, int slaveId,
 
 ## 总结
 本文成功测试了Modbus TCP的六种functions的读写。 所有源代码都在github上， 欢迎关注，欢迎讨论。
-源码地址 <https://github.com/freerambo/jamod.git>
+源码地址 <https://github.com/freerambo/jamod.git> 
+接下来我将讲述如何用`jamod`实现`modbust RTU`的通信。
