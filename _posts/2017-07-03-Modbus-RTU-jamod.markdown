@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Read data through Modbus in JAVA (Part 2. RTU)"
-subtitle:   "Use jamod to operate slaves of Modbus RTU"
+subtitle:   "Use jamod to operate Modbus RTU slaves"
 date:       2017-07-03 12:00:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
@@ -11,7 +11,7 @@ tags:
     - JAVA
 ---
 
-> This post introduces how to use java to communicate with slaves via Modbus RTU。
+> This post introduces how to use java to communicate with Modbus RTU slaves。
  
 继上篇文章讲述Modbus TCP如何读取数据之后，本文重点研究如何使用Modbus RTU和设备通讯。首先我们来看一下Modbus协议的介绍和特点。来自百度百科。
 
