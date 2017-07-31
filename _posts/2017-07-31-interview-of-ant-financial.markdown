@@ -23,6 +23,8 @@ Skype video - weekend night
 7 提问 
     a. 该职位向谁汇报，如何进行的考核
     b. 国内国际区别联系
+    c. 涨薪频率 - 一年两次， 七月（只考核不涨薪） 三月
+
 
 #Second round
 
