@@ -5,6 +5,8 @@ subtitle:   "Interview of Samsang SDS - JAVA developer - SG "
 date:       2017-07-24 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
+catalog:    true
+
 tags:
     - 面试
 ---

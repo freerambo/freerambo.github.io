@@ -5,6 +5,7 @@ subtitle:   "JAVA - JVM - Memory Management"
 date:       2017-08-01 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
+catalog:    true
 tags:
     - JVM
     - Memory
@@ -70,5 +71,5 @@ GC日志分析
 
 ---
 
-###### END
+##### END
 

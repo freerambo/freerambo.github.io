@@ -5,6 +5,8 @@ subtitle:   "Interview of Ant Financial - JAVA developer - International departm
 date:       2017-07-31 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
+catalog:    true
+
 tags:
     - 面试
 ---
