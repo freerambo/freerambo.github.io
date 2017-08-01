@@ -83,10 +83,10 @@ POST所对应的URI并非创建的资源本身，而是资源的接收者。比�
 
 ## 参考
 
-1. [RFC 2616, Hypertext Transfer Protocol -- HTTP/1.1, Method Definitions]<http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html>
-2. [The Importance of Idempotence]<http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html>
-3. [Stackoverflow - PUT vs POST in REST]<http://stackoverflow.com/questions/630453/put-vs-post-in-rest>
-4. [理解HTTP幂等性- Todd Wei - 博客园]<http://www.cnblogs.com/weidagang2046/archive/2011/06/04/idempotence.html>
+1. [RFC 2616, Hypertext Transfer Protocol -- HTTP/1.1, Method Definitions](http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
+2. [The Importance of Idempotence](http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
+3. [Stackoverflow - PUT vs POST in REST](http://stackoverflow.com/questions/630453/put-vs-post-in-rest)
+4. [理解HTTP幂等性- Todd Wei - 博客园](http://www.cnblogs.com/weidagang2046/archive/2011/06/04/idempotence.html)
 
 > 2017年8月02日11:38:52 更新
 
