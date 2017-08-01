@@ -2,7 +2,7 @@
 layout:     post
 title:      "蚂蚁金服国际业务部新加坡面试纪要"
 subtitle:   "Interview of Ant Financial - JAVA developer - International department - SG "
-date:       2017-07-01 16:21:00
+date:       2017-07-31 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
 tags:
@@ -10,7 +10,7 @@ tags:
 ---
 
 > 求学至北方，混迹于南洋. 欢迎来到自由兰博的世界
-#First round
+# First round
 
 Skype video - weekend night
 
@@ -26,7 +26,7 @@ Skype video - weekend night
     c. 涨薪频率 - 一年两次， 七月（只考核不涨薪） 三月
 
 
-#Second round
+# Second round
 
 Phone call - weekday
 
