@@ -12,9 +12,10 @@ tags:
 ---
 
 > 求学至北方，混迹于南洋. 欢迎来到自由兰博的世界
-# First round
 
-Onsite Interview - weekday 
+## First round
+
+>Onsite Interview - weekday 
 
 1. 自我介绍
 2. 项目SMES
@@ -33,9 +34,9 @@ Onsite Interview - weekday
 
 收获： 吊打整个面试组 
 
-#Second round
+## Second round
 
-Phone call - weekday - HR
+>Phone call - weekday - HR
 
 1. 自我介绍 
 2. 为什么离职

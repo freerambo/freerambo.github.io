@@ -12,9 +12,10 @@ tags:
 ---
 
 > 求学至北方，混迹于南洋. 欢迎来到自由兰博的世界
-# First round
 
-Skype video - weekend night
+## First round
+
+>Skype video - weekend night
 
 1. 自我介绍
 2. 项目SMES
@@ -28,9 +29,9 @@ Skype video - weekend night
     c. 涨薪频率 - 一年两次， 七月（只考核不涨薪） 三月
 
 
-# Second round
+## Second round
 
-Phone call - weekday
+>Phone call - weekday
 
 1. String 
 2. JVM memory management
