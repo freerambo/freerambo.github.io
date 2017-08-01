@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:      "Unix/Linux 扫盲笔记"
-subtitle:   "不适合人类阅读，非常水的自我笔记"
+title:      "Unix/Linux 学习笔记"
+subtitle:   "操作系统学习笔记和各种软件许可"
 date:       2017-07-14
 author:     "Hux"
 header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
     - OS
-    
     - Linux
 ---
 

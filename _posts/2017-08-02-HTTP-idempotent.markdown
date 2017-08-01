@@ -9,6 +9,8 @@ catalog:    true
 tags:
     - HTTP
     - idempotent
+    - 面试
+    
 ---
 
 > PUT方法是幂等的。幂等的方法意味着请求成功执行所得到的的结果不依赖于该方法被执行的次数。

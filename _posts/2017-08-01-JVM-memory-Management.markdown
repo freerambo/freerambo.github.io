@@ -9,6 +9,8 @@ catalog:    true
 tags:
     - JVM
     - Memory
+    - 面试
+
 ---
 
 > java内存管理分析
