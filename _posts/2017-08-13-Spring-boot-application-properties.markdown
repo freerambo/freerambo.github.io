@@ -855,13 +855,5 @@ spring.artemis.embedded.persistent开启持久化存储 (默认：false)
 
 spring.autoconfigure.exclude 要排除的自动配置类
 
-
-> 2017年8月02日11:38:52 更新
-
-朱渊博，特普通一人，渊为深，博为广，一直努力做一个有深度有广度的人。多混迹于Github, Stackoverflow, ITeye, 知乎, Linkedin 等地带。蹉跎中练就了一身码农好本领。 酷爱编程，但绝不宅。爱生活，爱思考，性情温和但充满激情，做事有主见，信奉读万卷书行万里路。
-<http://www.freerambo.com/about>
-
----
-
 ##### END
 
