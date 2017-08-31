@@ -2,7 +2,7 @@
 layout:     post
 title:      "D-MAQ- Senior JAVA开发-新加坡面试纪要"
 subtitle:   "Interview of M-DAQ - Senior JAVA developer - SG "
-date:       2017-08-21 16:21:00
+date:       2017-08-31 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
 catalog:    true
