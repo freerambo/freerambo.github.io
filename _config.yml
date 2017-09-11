@@ -114,5 +114,8 @@ friends: [
     },{
         title: "Xiaoh's Blog",
         href: "http://xiaoh.me/"
+    },{
+       title: "Yiak's Blog",
+       href: "https://yiakwy.github.io"
     }
 ]
