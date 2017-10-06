@@ -349,8 +349,7 @@ if(line != null)
 
 ```
 
-Q12.
-You are about to implement a list with thumbnails (like LINE’s “Friends” list). 
+## Q12. You are about to implement a list with thumbnails (like LINE’s “Friends” list). 
 Usually, thumbnails take time to fetch. In this situation, please explain in detail what 
 you would do to improve user experience (e.g., faster scroll and lower memory usage, etc.).
 
