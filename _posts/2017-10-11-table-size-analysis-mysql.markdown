@@ -38,10 +38,14 @@ tags:
 ## Analysis
 
 From method 2, I got a table size with 17.55 MB. 
+
+
 Through select count I obtain the row numbers *164164*. Hence, the average size of each row is 112 Byte. 
 
-In case of we have 1000 devices collecting data per second, each device has 20 parameters we need to store. So we are going to handle `20 * 1000 * 24 * 60 * 60`  
-1.728 Billion rows. If multiply 112 Byte then total data size is 1.65 GB data per day. 
+
+In case of we have 1000 devices collecting data per second, each device has 10 parameters we need to store. So we are going to handle `10 * 1000 * 24 * 60 * 60`  
+864 Million rows. If multiply 112 Byte then total data size is 92.3 GB data per day. 
+
 
 
 
