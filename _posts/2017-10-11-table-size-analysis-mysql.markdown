@@ -37,7 +37,7 @@ tags:
       
 ## Analysis
 
-From method 2, I got a table size with 17.55 MB. 
+Here I took an example of weather data table. From method 2, I got a table size with 17.55 MB. 
 
 
 Through select count I obtain the row numbers *164164*. Hence, the average size of each row is 112 Byte. 
