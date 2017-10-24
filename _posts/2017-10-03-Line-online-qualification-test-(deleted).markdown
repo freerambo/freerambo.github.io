@@ -17,7 +17,7 @@ tags:
 > 求学至北方，混迹于南洋. 欢迎来到自由兰博的世界
 
 
-**As requested by Line corporation, I deleted the online post. Thanks. **
+**As requested by Line corporation, I deleted the online post. Thanks.**
 
 > 2017年10月06日 更新
 
