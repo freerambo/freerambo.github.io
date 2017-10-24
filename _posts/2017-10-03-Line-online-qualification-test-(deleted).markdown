@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Qualification Test Online - Line corporation (Fukuoka Office)"
+title:      "**Deleted** -Qualification Test Online - Line corporation (Fukuoka Office)"
 subtitle:   "1 hour online test - Development Engineer - Fukuoka "
 date:       2017-10-03 18:21:00
 author:     "Yuanbo"
