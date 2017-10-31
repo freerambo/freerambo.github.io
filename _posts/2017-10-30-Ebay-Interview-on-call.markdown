@@ -18,7 +18,7 @@ tags:
 
 ##Ebay 面试问题 Questions
 
-    
+* 单例模式    
 * TCP/IP stack
     * tcp 头信息
 * HTTPS 
@@ -48,16 +48,14 @@ tags:
 * 软件架构 
 * Zookeeper
 * 消息队列
-
 * 提问
-
- 
 
 
 > 结论收获 很充实的四个小时视频面试
 1. `weak programming skill`
 2. `cannot identify problem quickly`
 3. `Not very solid in technical concept`
+
 > 2017年10月30日 更新
 
 
