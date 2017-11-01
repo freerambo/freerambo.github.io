@@ -18,7 +18,8 @@ tags:
 
 ##Ebay 面试问题 Questions
 
-* 单例模式    
+* 单例模式
+* Maven 项目生命周期管理  goal 和 phase  
 * TCP/IP stack
     * tcp 头信息
 * HTTPS 
