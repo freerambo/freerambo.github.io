@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "**文章翻译** - 我的硅谷之路-五天拿下五家顶级互联网公司 offer"
+title:      "**翻译**-我的硅谷之路-五天拿下五家顶级互联网公司 offer"
 subtitle:   " I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers"
 date:       2017-11-03 18:21:00
 author:     "Yuanbo"
