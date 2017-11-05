@@ -10,6 +10,7 @@ catalog:    true
 tags:
     - 面试
     - 技术
+    - 翻译
 
 ---
 
