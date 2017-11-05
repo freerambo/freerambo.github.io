@@ -39,6 +39,9 @@ tags:
 * Java 线程池 
     * 如何设计
     * 数据库线程池 原理
+* SQL 优化
+    * where 语句
+    * index 索引
 * 实现缓存系统
     * LRU算法
     * 如何替换 CURD操作
