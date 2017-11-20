@@ -16,6 +16,9 @@ tags:
 
 原文地址：[I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 
+掘金链接：[我的硅谷之路-五天拿下五家顶级互联网公司 offer](https://juejin.im/post/5a1247d26fb9a0452a3bec33 )
+
+
 
 # 我的硅谷之路-五天拿下五家顶级互联网公司 offer
 
