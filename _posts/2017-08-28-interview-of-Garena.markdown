@@ -42,11 +42,11 @@ tags:
 >Onsite Interview - weekday 
 
 1. white board 编程 (2 道) 
-2. Object methods
-3. 继承和组合的区别  
-4. equals 和 hashcode 方法区别以及应用结合hashcode和equals
-5. HashMap 和 hashtable  [Ref]<https://www.oschina.net/question/82993_75533>
-6. Test - mockito (verify 方法)
+2. 两个有序数组合并 - 给了两个sulution
+   - BitMap O(m+n)  preferred
+   - Linked list 比较
+3. 另一个记不起了 总之很轻松
+
 
 ## Thrid round
 
