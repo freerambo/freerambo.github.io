@@ -17,7 +17,7 @@ tags:
 
 
 ## Job Description
-Energy Research Institute @ NTU (ERIAN) is looking for outstanding Software Engineer to be responsible for developing the software systems on both front-end and back-end. The ideal candidate will be involved in overall system architecture and RESTful API design, Supervisory control and Data acquisition (SCADA) and Energy management system (EMS) development. This is a vital role requiring a level of significant software capabilities and excellent communication skills. The ideal candidate will be needed to understand the best practices of various software systems development and deliver award-winning SCADA/EMS applications.  
+Energy Research Institute @ NTU (ERIAN) is looking for outstanding Software Engineer to be responsible for developing the software systems on both front-end and back-end. The ideal candidate will be involved in overall system architecture and RESTful API design, Supervisory control and Data acquisition (SCADA) and Energy management system (EMS) development. This is a senior role requiring a level of significant software capabilities and excellent communication skills. The ideal candidate will be needed to understand the best practices of various software systems development and deliver award-winning SCADA/EMS applications.  
 
 ## Responsibilities
 *	Build the overall system architecture and technology roadmaps.
@@ -36,9 +36,12 @@ Energy Research Institute @ NTU (ERIAN) is looking for outstanding Software Engi
 *	High standards for code quality, maintainability, and performance.
 *	Ability to multi-task, prioritize and work with minimum amount of supervision and collaborative environment.
 *	Work experience with cloud services, Internet of things, Real-time systems, cyber security, distributed system and NoSQL is a plus.
+*	Understand mainstream industrial communication protocols such as Modbus, CANBUS, Bacnet, etc is a plus.
 
 
+> 根据自身的 job role, 一则招聘广告欢迎广大有志青年入坑。  
 > 2018年1月16日23:58:52 更新
+
 ---
 
 ### END
