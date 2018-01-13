@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "人月神话全面总结 Summary of The Mythical Man Month"
-subtitle:   "Summary of The Mythical Man Month"
+title:      "Summary of The Mythical Man Month"
+subtitle:   "人月神话全面总结 - 如何做好项目管理"
 date:       2018-01-15 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
@@ -256,7 +256,7 @@ MIT的Multics项目的成果之一，是它对软件编程系统开发的贡献�
 
 利用现有可能的方法在软件生产率上取得逐步的进展，而不是等待不可能到来的大突破。
 
-> 2018年1月13日23:58:52 更新
+> 有感于最近三年做项目的血泪史，2018年1月13日23:58:52 更新
 
 参照 <https://zhuanlan.zhihu.com/p/27521161>
 
