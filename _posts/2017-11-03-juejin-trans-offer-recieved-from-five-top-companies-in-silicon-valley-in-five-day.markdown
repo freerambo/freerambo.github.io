@@ -14,6 +14,8 @@ tags:
 
 ---
 
+> Media 上看到一篇很有感触的文章，回顾自己最近四个月的心路历程，有感而译并发表到掘金社区。欢迎大家反馈。
+
 原文地址：[I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 
 掘金链接：[我的硅谷之路-五天拿下五家顶级互联网公司 offer](https://juejin.im/post/5a1247d26fb9a0452a3bec33 )
