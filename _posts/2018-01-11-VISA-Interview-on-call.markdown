@@ -4,7 +4,7 @@ title:      "Senior Software Engineer - VISA Phone interview  - Singapore"
 subtitle:   "1.5 hour phone interview"
 date:       2018-01-11 11:21:00
 author:     "Yuanbo"
-header-img: "img/home-bg-o.jpg"
+header-img: "img/java-coder.jpg"
 catalog:    true
 
 tags:
