@@ -41,9 +41,12 @@ tags:
 
 ## VISA Senior position onsite interview Questions
 
+* ArrayList
+    * Increse
+    * arrycopy
 * Java Iterator 
 * Design problem - instagram 
-* Annotation
+* Java Annotation
 * Autowire vs. Resource Vs. Inject
 * Hibernate Cache 
     * Session cache
@@ -51,6 +54,9 @@ tags:
     * QueryCache
     * N+1
     * Lazy
+* Spring 
+    * Bean Life circle
+    * Thread Safe 
 * Automic vs. volitate 
 * Bitmap 
 * Implement a Queue with two stack 
