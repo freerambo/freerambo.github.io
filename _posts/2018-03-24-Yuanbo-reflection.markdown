@@ -16,7 +16,20 @@ tags:
 ## 渊博感悟
 
 
+mysql db do not allow interval as column name. 
+
 TBD 
+
+新加坡年轻人的故事
+
+自力更生的uber小哥 
+
+服完兵役 等待入学 
+
+
+开uber的天津大叔
+
+
 
 ---
 
