@@ -20,7 +20,7 @@ tags:
 
 
 
-```shell
+
 
 
 - git status 
@@ -67,7 +67,6 @@ WM-C02TX3AGHTD8:cbp yuzhu$ git branch -a | grep F7785_VTSSGP_dev-6.3.0
 git pull --rebase
 
 
-```
 
 ##  Syncronizae local branch from remote branch
 
@@ -78,7 +77,9 @@ git pull origin <local_branch>:<remote_branch>
 ```
 
 
-
+## rm th enpm proxy 
+npm config rm proxy
+npm config rm https-proxy
 
 
 ---
