@@ -7,7 +7,14 @@
 
 八年互联网应用开发经验，擅长软件架构，大数据处理(能源领域)和网络安全。
 
--  2014.08– 今   供职于南洋理工大学能源研究所， 成立信息技术部，软件开发负责人，副研究员。目前负责NRF最大的单个项目，智能多能源系统的项目管理，关键系统开发，采购和预算管理。 先前完成EDB资助的节能校园系统的开发，系统降低了15%的能源消耗。 
+-  2018.03– 今   Sr. SW Engineer with VISA Token Service
+
+    * Leading an innovation project – A blockchain and IPFS powered KYC system.
+    * Building platform services for future mobile payment in VISA 
+  
+
+
+-  2014.08– 2018.02   供职于南洋理工大学能源研究所， 成立信息技术部，软件开发负责人，副研究员。目前负责NRF最大的单个项目，智能多能源系统的项目管理，关键系统开发，采购和预算管理。 先前完成EDB资助的节能校园系统的开发，系统降低了15%的能源消耗。 
 
 
 | 项目名称 | 项目描述 | 项目来源 | 资金年限 |

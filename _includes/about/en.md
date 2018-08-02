@@ -7,8 +7,12 @@
 Dear friends, welcome to the world of Zhu Yuanbo(朱渊博), or Rambo. Profoundly and broadly as I always be.
 I'm a full stack developer with 8+ years in web applications development, software architecture, cloud computing, Big Data (Energy sector) and cyber security.
 
+-  2018.03– To date   Sr. SW Engineer with VISA Token Service
 
-- 2014.08– to date, Research Associate with Energy Research Institute @ NTU (ERIAN) Team Leader, founded the ICT Team, in charge of software development. Built the ERIAN Energy Could platform. Currently working on the single largest project from NRF (Singapore). 
+    * Leading an innovation project – A blockchain and IPFS powered KYC system.
+    * Building platform services for future mobile payment in VISA 
+
+- 2014.08– 2018.02, Research Associate with Energy Research Institute @ NTU (ERIAN) Team Leader, founded the ICT Team, in charge of software development. Built the ERIAN Energy Could platform. Currently working on the single largest project from NRF (Singapore). 
 			
 | Project | Description | Fund source | Budget&Schedule |
 |:--------|:-------|:--------|:--------|
