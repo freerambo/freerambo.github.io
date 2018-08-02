@@ -34,12 +34,16 @@ tags:
 - vim .git/config
 
 WM-C02TX3AGHTD8:cbp yuzhu$ git status
+
 On branch F7785_VTSSGP_dev-6.3.0
+
 nothing to commit, working tree clean
 
 WM-C02TX3AGHTD8:cbp yuzhu$ git branch -a | grep F7785_VTSSGP_dev-6.3.0
 * F7785_VTSSGP_dev-6.3.0
+
   remotes/origin/F7785_VTSSGP_dev-6.3.0
+  
   remotes/origin/F7785_VTSSGP_dev-6.3.0_twalgama
   
   
@@ -48,7 +52,9 @@ WM-C02TX3AGHTD8:cbp yuzhu$ git branch -a | grep F7785_VTSSGP_dev-6.3.0
   git rebase --abort
   
  WM-C02TX3AGHTD8:cbp yuzhu$ git status
+ 
  On branch F7785_VTSSGP_dev-6.3.0
+ 
  nothing to commit, working tree clean 
   
 
@@ -58,9 +64,15 @@ WM-C02TX3AGHTD8:cbp yuzhu$ git branch -a | grep F7785_VTSSGP_dev-6.3.0
  
  
  WM-C02TX3AGHTD8:cbp yuzhu$ git branch -d F7785_VTSSGP_dev-6.3.0
+ 
+ 
  Deleted branch F7785_VTSSGP_dev-6.3.0 (was c4ef95a3ca).
+ 
+ 
  WM-C02TX3AGHTD8:cbp yuzhu$ git checkout -b F7785_VTSSGP_dev-6.3.0 origin/F7785_VTSSGP_dev-6.3.0
+ 
  Branch F7785_VTSSGP_dev-6.3.0 set up to track remote branch F7785_VTSSGP_dev-6.3.0 from origin.
+ 
  Switched to a new branch 'F7785_VTSSGP_dev-6.3.0'
 
 
@@ -81,6 +93,7 @@ git pull origin <local_branch>:<remote_branch>
 npm config rm proxy
 npm config rm https-proxy
 
+npm config set python python2.7
 
 ---
 

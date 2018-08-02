@@ -2,15 +2,15 @@
 layout:     post
 title:      "How other nerbour countries look at China"
 subtitle:   "邻居们如何看待中国"
-date:       2018-04-30 16:21:00
+date:       2018-07-30 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
 catalog:    true
 
 tags:
-    - 技术
-    - JAVA
-    - Git
+    - 心情
+    - comment
+    - China
     
 ---
 
