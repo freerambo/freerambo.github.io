@@ -51,8 +51,9 @@ tags:
 ## Volatile & Atomic
 
 Volatile for visibility
-Atomic for atomicity 
 
+所有线程线程 
+Atomic for atomicity 
 
 
 
