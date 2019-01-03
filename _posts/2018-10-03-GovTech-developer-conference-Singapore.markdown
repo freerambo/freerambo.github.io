@@ -2,7 +2,7 @@
 layout:     post
 title:      "Takeways from Govtech developer conference"
 subtitle:   " "
-date:       2018-10-00 16:21:00
+date:       2018-10-03 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
 catalog:    true
