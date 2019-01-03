@@ -2,7 +2,7 @@
 layout:     post
 title:      "Preflight Request"
 subtitle:   ""
-date:       2018-11-27 16:21:00
+date:       2018-12-27 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
 catalog:    true
