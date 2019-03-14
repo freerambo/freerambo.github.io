@@ -281,6 +281,34 @@ share location between contanier and host server
 
 docker run -it --name java-dev -v /data/src:/src myjdk:0.0.1 /bin/bash
 
+
+# In terminal 1
+mkdir -p /data/myjdk
+cd /data/myjdk
+cat > Dockerfile <<DELIM
+FROM ubuntu:18.04
+
+RUN apt-get update && apt-get -y install openjdk-8-jdk
+DELIM
+docker build -t myjdk:8 .
+docker run -it --name java-dev -v /data/src:/src myjdk:8 /bin/bash
+# In a different terminal 2
+cd /data/src
+cat > HelloWorld.java <<DELIM
+public class HelloWorld {
+  public static void main(String args[]) {
+    System.out.println("Hello World");
+  }
+}
+DELIM
+# In terminal 1 - inside the container
+cd /src
+javac HelloWorld.java
+java HelloWorld
+
+https://github.com/buzypi/spring-boot-hello
+
+
 ```
 
 ---
