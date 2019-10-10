@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Innovations"
+title:      "git add local repo to remote"
 subtitle:   ""
 date:       2019-04-18 16:21:00
 author:     "Yuanbo"
