@@ -67,9 +67,9 @@ if return 0, means previous command run successfully.
 
 `history` gives all hostory commands
 
-docker ps list all containers. 
+`docker ps` list all containers. 
 
-Rule of silence: if there is nothing to say, say nothing.
+**Rule of silence: if there is nothing to say, say nothing.**
 
 `rm -rf /tmp/foo/f1` return nothing since rule of silence
 
