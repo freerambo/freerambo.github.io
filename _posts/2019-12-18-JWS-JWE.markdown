@@ -1,0 +1,166 @@
+---
+layout:     post
+title:      "JWS and JWE"
+subtitle:   ""
+date:       2019-12-18 16:21:00
+author:     "Yuanbo"
+header-img: "img/home-bg-o.jpg"
+catalog:    true
+
+tags:
+    - Tech
+    - innovation
+    
+---
+
+
+## Data Encryption/Signature
+
+The payload fields submitted by clients in the APIs contain sensitive information, which must be encrypted and signed using JWE (JSON Web Encryption) and JWS (JSON Web Signature). The compact serialization scheme is followed for both JWE and JWS with elements being Base64URL-encoded and separated by a "." (period).
+
+
+## JWE Composition
+
+The following format shows the encrypted payload fields from its plaintext representation:
+Base64URL (UTF8 (JWE Header)) || ‘.’ || Base64URL ( JWE Encrypted Key) || ‘.’ || Base64URL (JWE Initialization Vector) || ‘.’ || Base64URL (JWE Ciphertext) || ‘.’ || Base64URL (JWE Authentication Tag)
+
+### JWE Header Sample
+```json
+{
+"alg":"RSA-OAEP-256",
+"kid":"7ZEIVC16DGRDQKWZEE3X11LeJMDhyqQu8Q1ctnp4bylyQJCsw", "typ":"JOSE",
+"enc":"A256GCM", "iat":"1429837145"
+}
+```
+
+### JWE Body Sample
+ 
+Data Encryption/Signature
+```json 
+{
+"encrypted_key": "UghIOgu ... MR4gp_A=", //base64 encoded form .
+//CEK encrypted using A256GCM algorithm
+"iv": "AxY8DctDa….GlsbGljb3RoZQ=", // base64 encoded form . IV for the text encryption. Size of IV is to be 96 bit "ciphertext": "KDlTthhZTGufMY…….xPSUrfmqCHXaI9wOGY=",
+//Base64 encoded form.
+Encrypted blob generated using the AES-GCM encryption(enc) of the text to encrypt
+"tag": "Mz-VPPyU4…RlcuYv1IwIvzw=" // base64 encoded form .
+}
+```
+
+HMAC generated using
+the AES-GCM encryption of the text to encrypt.
+
+**The size of the tag is to be 256 bits.**
+
+### JWE Encrypted Key
+JWE Encrypted Key is a randomly generated Content Encryption Key (CEK) that is encrypted with the receiver's public encryption key, by using the RSA-OAEP-256 algorithm.
+### JWE Initialization Vector
+JWE Initialization Vector is a randomly generated initialization vector (also known as
+salt) of 96 bits length.
+### JWE Ciphertext
+JWE Ciphertext is an encrypted BLOB that is generated from the plaintext (sensitive data that needs to be encrypted), by using the A256GCM encryption scheme specified in the enc header field.
+### JWE Authentication Tag
+The HMAC of size 128 bits is generated from the A256GCM encryption of the plaintext.
+
+### General Steps for Data Encryption
+Apply JWE on plaintext data and encrypt data by following these steps:
+1.	Get the RSA 2048 public key.
+2.	Generate a Random Symmetric Key (RSK) of 256 bits length.
+3.	Encrypt the RSK that is using the RSA 2048 key, by using the algorithm specified in alg(RSA-OAEP-256).
+4.	Generate a random IV of 96 bits length and perform Base64URL encoding to produce E-IV.
+5.	Encrypt plaintext data, by using the RSK, Payload-IV, and the algorithm A256GCM specified in the enc header field to form the Ciphertext and the Payload Tag data.
+6.	Base64URL-encode the encrypted bytes to produce E-Ciphertext.
+7.	Base64URL-encode the Tag data to produce E-TAG.
+8.	Base64URL-encode the RSK to produce E-Encrypted Key.
+9.	Base64URL-encode the entire JWE Header JSON containing the encryption parameters used in clear text as shown below, to produce the JWE:
+    - Encoded-HEADER|| ‘.’ || Base64URL (JWE Encrypted Key) || ‘.’ || Base64URL (JWE
+IV) || ‘.’ || Base64URL (JWE Ciphertext) || ‘.’ || Base64URL (JWE Authentication Tag).
+
+### Data Decryption
+To decrypt the encrypted data
+1.	Get the RSA 2048 private key.
+2.	Base64URL decode the E-Header field. Get the kid and the algorithms to use for decryption.
+3.	Base64URL decode the E-Key field to get the encrypted E-key (Random Symmetric Key).
+4.	Decrypt the JWE Encrypted Key field by using the RSA 2048 private key with the encryption algorithm, as specified in the alg element (RSA-OAEP-256).
+Get the RSK in clear.
+5.	Base64URL decode the E-IV for use in ciphertext decryption.
+6.	Base64URL decode the E-Authentication Tag for use in ciphertext decryption.
+7.	Base64URL decode the ciphertext field.
+Decrypt the ciphertext, by using RSK and IV and authentication tag and encryption algorithm, as specified in the enc header field (A256GCM).
+
+
+
+## JWS Using RSA
+
+The general approach for generating a JWS payload that signs a JWE payload is as follows:
+•	Here uses the compact serialization style, wherein elements are separated by a period (“.”).
+•	All fields are Base64URL-encoded.
+•	Use RSA-OAEP-256 algorithm (PS256 in terms of JWS algorithm notation) for signature.
+All string-to-byte and byte-to-string conversions are done with the UTF-8 charset.
+
+### JWS Composition
+The following format shows the encrypted payload fields from its plaintext representation:
+Base64URL (UTF-8 (JWS Header)) || ‘.’ || Base64URL (JWS Payload) || ‘.’ || Base64URL (JWS Signature)
+
+### JWS Header
+The JWE header contains the metadata for encryption and decryption
+
+
+JWS Header Sample
+```json
+
+{
+"alg":"PS256",
+"kid":"7ZEIVC16DGRDQKWZEE3X11LeJMDhyqQu8Q1ctnp4bylyQJCsw", "typ":"JOSE",
+"cty":"JWE"
+}
+```
+
+
+
+### JWS Signature Sample
+ 
+Signature Validation/Data Decryption
+ 
+
+“signature”: “rDxMelJ4y_EKQzxMus6oCS3WkyKb-2HqqZYgSyEP9VhDkUGNKEgeU7b3v TeamL9voLttF be44skxVbLOe3IorO3AmnO93O4evSMyXakABR6HorSXqZ8Izx1N8AzgwZ Ot9HkVesH7tIR_IR69bFdDPCpG5qIe1EBEpodilSfs-LphbEPw”
+
+### JWS Payload
+
+The JWS payload is the JWE that is being signed.
+
+### JWS Signature
+The JWS signature is generated to protect the integrity of the JWS Header and the JWS Payload.
+
+### General Steps for Creating Signature
+To create a signature by applying JWS on JWE
+1.	Get the RSA 2048 private key.
+2.	Sign the JWE (JWS Payload) that is using the RSA 2048 private key, by using the algorithm specified in the alg header field (PS256) to get the JWS Signature.
+3.	JWS Signing Input: ASCII (Base64URL (UTF8 (JWS Header)) || ‘.’ || Base64URL (JWS Payload))
+4.	Package the header, by using alg,kid,cty and typ params (as shown in the above example for JWS).
+5.	Base64URL-encode the JWS Signature to produce E-Signature.
+6.	Base64URL-encode the JWE to produce E-JWS payload.
+7.	Base64URL-encode the entire JWS Header JSON containing the encryption parameters.
+8.	Concatenate the above elements to produce the JWS:
+Base64URL (UTF8 (JWS Header)) || ‘.’ || Base64URL (JWE) || ‘.’ || Base64URL (JWS Signature)
+Signature Validation/Data Decryption
+Sensitive payload fields submitted by clients through the APIs are encrypted and signed by using JWE (JSON Web Encryption) and JWS (JSON Web Signature).
+
+### Signature Validation
+To validate the signature
+1.	Get the RSA 2048 public Key.
+2.	Base64URL decode the E-Header field. Get the kid and the alg elements to use for signature validation.
+3.	Base64URL decode the E-Signature field to get the JWS Signature.
+4.	Base64URL decode the E-JWS Payload to get the JWS Payload.
+5.	Validate the JWS Signature against the JWS Payload, by using the RSA 2048 public key with the encryption algorithm, as specified in alg element (PS256).
+ 
+
+ 
+
+
+
+
+---
+
+### END
+
