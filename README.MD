@@ -25,6 +25,8 @@ We can comfortably meet option 1 timelines without any compromises. Option 2 is 
  
 Wanted to take your opinion on option 1 vs 2 and I can start the discussions with stakeholders accordingly. Dropping this note to set the context tonight itself – can definitely discuss more in a call with you tomorrow if you need additional input.
 
+曾经的诗和远方，早已不知去往何方！每天用“if…else”左右虚拟世界中的一切，自己的人生，却没有那个"if"！
+
 
 
 > 上士闻道,勤而行之 中士闻道,若存若亡 下士闻道,大笑之,不笑不足以为道
