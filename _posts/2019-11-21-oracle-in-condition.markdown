@@ -50,6 +50,23 @@ OR customer_name = 'Hewlett Packard'
 OR customer_name = 'Microsoft';
 As you can see, using the Oracle IN condition makes the statement easier to read and more efficient.
 ```
+
+
+
+mysql.server stop
+mysql.server start
+
+1、UNIX时间戳转换为日期用函数： FROM_UNIXTIME()
+
+select FROM_UNIXTIME(1156219870);
+
+
+
+2、日期转换为UNIX时间戳用函数： UNIX_TIMESTAMP()
+
+    Select UNIX_TIMESTAMP('2006-11-04 12:23:00');
+    
+    
 ---
 
 ### END
