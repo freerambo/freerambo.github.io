@@ -50,3 +50,11 @@ I did the phone interview for Pavan & he did quite well. I asked questions from 
 语文老师：好！实在太好了！第一个“哈”字，表达了作者对当时黑暗社会的苦笑与无奈，第二个“哈”字，笔锋一转，作者意图传递一种积极乐观的情绪给读者，警惕国民，必须清醒，冲破旧制度的枷锁。而句末的句号，则运用得出神入化。句号表示结束，作者用简单一个句号，便充分强烈表达出要结束旧制度的想法。鲁迅写下：老师，你有问过我是怎么想的么？语文老师：棒！真的太棒了！作者用“老师”开头，说明其对文化的敬畏，也符合作者弃医从文的选择。而一句“你有问过我是怎么想的么”，一语双关。一方面是对社会的拷问，对社会压迫底层人民表达强烈的愤慨；另一方面，则是对麻木的国民的责问，责问人们为何从不敢说这句话。提醒国民要保持思考独立，保持质疑的精神，切勿人云亦云。也照应了开头，强调文化力量的可贵。这种找不到任何瑕疵的写作手法，值得大家学习。鲁迅写下：有病！语文老师：对！说得太对了！作者用铿锵有力的两个字，用近乎呐喊的语气，精辟深刻揭露了当时社会的问题所在：有病！社会病在腐朽落后，国民腐朽在麻木昏睡。这也为作者后来写《药》埋下了伏笔。前后呼应，滴水不漏，天衣无缝。鲁迅写下：呵呵。语文老师：绝！真是太绝了！作者用尖锐冰冷的笔调，精简又准确地表达了对当时那个吃人的社会以及阿Q们的控诉。所谓谈话止于呵呵，因此这二字也表明作者在必须改变社会现状和人们麻木思想的问题上，没有任何商量的余地，坚决而果断。好文！鲁迅写下：......语文老师：高！相当的高啊！面对这个病态的社会。千言万语，汇成一串省略号。看似什么都没讲，但又可以看作讲了无数话。并且，作者在表达自己态度的同时，又给与读者想象的空间。一千个人心中，有一千种对社会的看法。这也正是作者想表达的意思：人人独立思考，才能不麻木，才能救社会于危难......
 
 
+I hope each of you had a wonderful holiday season and were able to spend some time with family and friends to celebrate. As we enter the new year, I would like to thank you for your support and hard work in making this peak season a success. Incredibly, we saw 12 new all-time peak records for global operations metrics. Your hard work and efforts were the reason we had such a smooth and flawless peak season once again.
+
+Below are some of the latest highlights from across our Technology organization that showcase some of the amazing work and opportunities we have seen in the past quarter.
+
+
+
+Thank you all for your continued hard work and dedication toward our goals and priorities. If you should have any questions or suggestions, please feel free to reach out to your TLT member or me.
+
