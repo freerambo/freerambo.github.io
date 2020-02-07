@@ -32,11 +32,52 @@ Wanted to take your opinion on option 1 vs 2 and I can start the discussions wit
 
 ## Candidate Feedback
 
-`acThe candidate has good knowledge of both core and advance JAVA. I asked the questions of common data structures list, set. map, multithreading and system designs, and he was able to give clear answer for the most of questions. The candidate is familiar with the frameworks we are using. He shared his understanding of IOC and DI concept in Spring frameworks. He also has good experience with JPA/Hibernate and distributed DBs. He answered the difference between relational DB and NOSQL in details and explain well of the CAP theorem. Additionally, he had considerable knowledge of VTS/VDCS and DDP tools/processes. With that, I feel he is qualified for this position and highly recommend him to join our team.`
+`The candidate has good knowledge of both core and advance JAVA. I asked the questions of common data structures list, set. map, multithreading and system designs, and he was able to give clear answer for the most of questions. The candidate is familiar with the frameworks we are using. He shared his understanding of IOC and DI concept in Spring frameworks. He also has good experience with JPA/Hibernate and distributed DBs. He answered the difference between relational DB and NOSQL in details and explain well of the CAP theorem. Additionally, he had considerable knowledge of VTS/VDCS and DDP tools/processes. With that, I feel he is qualified for this position and highly recommend him to join our team.`
 
 
 ```
 I did the phone interview for Pavan & he did quite well. I asked questions from Java and frameworks we use and he answered most of the question in well detail. He had a considerable skill and knowledge on varies tools which we use in DDP and possessed a fair knowledge in Java and related software engineering concepts. So, with all his qualities and eagerness, I feel that he can ramp up quickly and become a great asset to our team. Overall, he showed genuine eagerness to learn about the applications owned by our team. He is also a good listener and was able to share his ideas openly. Hence, I would recommend him for this position within our team.
+
+```
+
+
+I asked him on architectural and system design questions.
+
+He was technically strong and meticulous in terms of his thoughts
+He was able to answer the design questions with decent technical depth
+However requires a bit of prompting in order to further elaborate on his points
+He has a pleasant attitude and is receptive towards suggestions and feedbacks on the points that he made
+Was slightly nervous when he was asked to present his solution
+Overall, I think he is a pretty good candidate and i would recommend him for hire
+
+
+
+I had the phone interview with Lakmal. He was a bit nervous at the beginning.. But he managed to answer most of the questions we asked. In overall,
+
+He was good in Java
+He had experience working on AWS and cloud-based solutions
+He was also good in Frameworks like Hibernate and Spring
+Had hands-on experience working with these technologies
+Therefore, I would like to recommend him for this position.
+
+
+I conducted the face to face interview with Lakmal and I focused on his technical fluency on JAVA and J2EE frameworks.
+
+He managed to answer most of the Java related Questions and was able to articulates his point in a systematic way. I asked questions on
+
+Iterator
+Collections
+Java clone - Deep vs soft copy
+Static Binding And Dynamic Binding
+Threads and Executors
+volatile and atomic variables
+
+Also covered framework related questions on Spring and Hibernate. Candidate was able to answer most of these questions with some prompting.
+
+
+### list port number 
+```
+lsof -w -n -i tcp:port
 
 ```
 
@@ -57,4 +98,22 @@ Below are some of the latest highlights from across our Technology organization 
 
 
 Thank you all for your continued hard work and dedication toward our goals and priorities. If you should have any questions or suggestions, please feel free to reach out to your TLT member or me.
+
+
+
+
+
+Open, global, interoperable networks power the world by enabling the free flow of information and commerce. 
+
+They allow a plane to fly safely from Brussels to Sydney, and a train to move seamlessly from Munich to Paris with instant access to cash from ATMs at every stop on the way. 
+
+They keep our phones working almost anywhere and allow a credit card from a bank in Spain to function seamlessly at a restaurant in Nairobi. The benefits they deliver to citizens around the world are profound. 
+
+
+
+bytedance
+
+zhihui
+
+xiang
 

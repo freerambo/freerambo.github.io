@@ -104,6 +104,14 @@ Add commit to another branch
 
 You can just git cherry-pick -n <commitid>, and the changes will be applied to your working directory and staged in the index (like git -a), but will not be committed.
 
+Revert a merge
+
+```
+
+ git revert -m 1 branch name
+
+
+```
 
 ---
 
