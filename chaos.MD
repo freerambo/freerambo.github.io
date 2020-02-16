@@ -121,11 +121,11 @@ xiang
 ## Bidding Adieu
 
 
-I have never imagined this day will come, but my life at VISA finally has come to an end. It was a privilege to be part of VISA’s journey over last two decades, with all the innovation that made payment easier, safer and truly a different experience.
+I have never imagined this day will come, but my life at VVVV finally has come to an end. It was a privilege to be part of VVVV’s journey over last two decades, with all the innovation that made payment easier, safer and truly a different experience.
  
-What started 17 years ago with ‘VIP Online Support’, continued through Network Processing Development to DDP, this has been a long but very fulfilling journey. Not only did my time at VISA helped me grow professionally and personally, I cherished every moment of it. From long nights to early morning calls, solving production issues always gave me the adrenaline rush, no adventure sport could give me.
+What started 17 years ago with ‘VIP Online Support’, continued through Network Processing Development to DDP, this has been a long but very fulfilling journey. Not only did my time at VVVV helped me grow professionally and personally, I cherished every moment of it. From long nights to early morning calls, solving production issues always gave me the adrenaline rush, no adventure sport could give me.
  
-I could not have been better equipped to embark in this new journey without the knowledge and support I got throughout my time at VISA. Thank you for your wisdom, generosity and kindness over the years. It was a true pleasure working with you, and no word can express my gratitude. I’ll cherish every moment I spent here, every friendship that I made, every interaction that helped me expand my horizon.
+I could not have been better equipped to embark in this new journey without the knowledge and support I got throughout my time at VVVV. Thank you for your wisdom, generosity and kindness over the years. It was a true pleasure working with you, and no word can express my gratitude. I’ll cherish every moment I spent here, every friendship that I made, every interaction that helped me expand my horizon.
  
 Please stay in touch, through email, social media, LinkedIn or WhatsApp, or any communication channel that works for you.
  
