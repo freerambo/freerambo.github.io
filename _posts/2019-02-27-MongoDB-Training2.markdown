@@ -95,6 +95,12 @@ High Scalability with Sharding_5.pdf
 
 
 
+
+sqldeveloper import data model diagram
+
+Click File → Data Modeler → Import → Data Dictionary.
+
+
 ---
 
 ### END
