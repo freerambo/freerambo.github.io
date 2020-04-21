@@ -132,3 +132,61 @@ Please stay in touch, through email, social media, LinkedIn or WhatsApp, or any 
 Not saying goodbye, to a new beginning.
 
 ---
+
+
+Qualifications
+Responsibilities
+
+·       Responsible for the quality and delivery of the innovation center projects including API services and/or mobile apps, including the mentoring and coaching of junior team members.
+
+·       Design solutions and communicate effectively to business and technical audiences, acting as the lead from the technology side.
+
+·       Be responsible for adoption of best practices in code health, testing, scalability and maintainability.
+
+·       Willing and able to mentor junior team members.
+
+·       Engage with code review, pair programming, architecture and data model design sessions, and other team activities to drive improvements in delivery.
+
+·       Able to rapidly build mobile apps based on loose / incomplete business requirements, working with UX designers and product managers to refine things as they are built.
+
+ 
+
+Outputs include but are not limited to:
+
+·       First and foremost, clean, working code, with proper testing and error handling.
+
+·       Functional & technical requirements documents.
+
+·       Clear and concise documentation including technical requirements, interface descriptions and installation instructions.
+
+ 
+
+Qualifications
+
+Minimal Qualifications
+
+·       Bachelor's (or above) in Computer Science or related technical field or equivalent practical experience.
+
+·       6+ Years Professional experience in software development.
+
+·       Highly proficient in at least one modern programming language - our preference for this role is Javascript, but other professional backgrounds will be evaluated.
+
+·       Working knowledge of Node.js, experience with other frameworks like Angular, React, Ember, Java Spring, etc. would be a plus.
+
+·       Strong at Computer Science fundamentals in data structures, algorithm design, efficiency, functional programming, concurrency & performance optimization.
+
+·       Working knowledge of Software engineering fundamentals such as unit testing, integration testing, microservices architecture, system design, etc.
+
+·       Strong communication and written skills, ability to communicate your ideas with others.
+
+·       Comfortable working in an agile development environment, eager to learn new technologies.
+
+Preferred Qualifications
+
+·       Experience managing continuous integration using Jenkins.
+
+·       Knowledge of managing complex systems in AWS.
+
+·       Working knowledge of at least 1 mobile platform either iOS or Android using Swift or Kotlin.
+
+·       Financial services and/or payments processing industry experience is a plus.
