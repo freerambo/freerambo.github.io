@@ -190,3 +190,11 @@ Preferred Qualifications
 ·       Working knowledge of at least 1 mobile platform either iOS or Android using Swift or Kotlin.
 
 ·       Financial services and/or payments processing industry experience is a plus.
+
+
+
+We had a discussion internally and decided that we would pull out the deprioritized features from 20.06 release. We will leave F17771 feature and the fix for CBP-6867 ticket in place for 20.06 as planned earlier.
+ 
+On a different note – due to frequent last minute re-prioritizations from other stakeholders, feature F14053 has been dragged over multiple releases starting from 20.02. This is one of the features requested by ANZ and it was continuously pushed to subsequent releases for 4 times due to either product decisions or delays from CMLS team. At all times, COFDS team needs to work with PM & VDP teams, convince them the rationale behind the last minute change, update Swagger files, etc. We believe that this is extra work and it would be great if product team can socialize these changes upfront so we have enough time to work on the changes.
+ 
+With the latest prioritization decision, COFDS QA team is in jeopardy as we have to pull out the code for the aforementioned 2 features from the source and do the regressions again in both VMs and containers by EOD. We wish if the product team gives more focus on this matter in future and agree to a model whereby everyone can utilize their time effectively in the course of project delivery.
