@@ -28,9 +28,9 @@ public class CacheService {
     public void init() {
             issuerCertsCache = CacheBuilder.newBuilder().maximumSize(CACHE_SIZE) // maximum 100 records can be cached
                 .expireAfterWrite(TTL_IN_DAYS, TimeUnit.DAYS)  // cache will expire after 1 day of write
-                .build(new CacheLoader<DasCacheKey, Boolean>() {  // build the cacheloader
+                .build(new CacheLoader<CacheKey, Boolean>() {  // build the cacheloader
                     @Override
-                    public Boolean load(DasCacheKey cacheKey) {
+                    public Boolean load(CacheKey cacheKey) {
                         // doSomething 
                         return doSomething(cacheKey);
                     }

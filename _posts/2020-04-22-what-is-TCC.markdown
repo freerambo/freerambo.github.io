@@ -2,7 +2,7 @@
 layout:     post
 title:      "What is digital certificate"
 subtitle:   ""
-date:       2020-04-21 16:21:00
+date:       2020-04-22 16:21:00
 author:     "Yuanbo"
 header-img: "img/home-bg-o.jpg"
 catalog:    true
