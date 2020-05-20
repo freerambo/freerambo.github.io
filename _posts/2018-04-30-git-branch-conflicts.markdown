@@ -95,6 +95,17 @@ npm config rm https-proxy
 
 npm config set python python2.7
 
+
+## How To Create and Apply Git Patch Files
+
+
+Create Git Patch for Specific Commit
+```git
+git format-patch -1 <commit_sha>
+
+git format-patch -1 200b0ba1958ff656a9478c77b3858559e1746d4a 
+```
+
 ---
 
 ### END
