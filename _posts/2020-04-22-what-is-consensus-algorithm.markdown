@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "What is digital certificate"
+title:      "What is consensus algorithm"
 subtitle:   ""
 date:       2020-04-21 16:21:00
 author:     "Yuanbo"
