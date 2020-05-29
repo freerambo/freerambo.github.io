@@ -44,11 +44,11 @@ Head to a place that's conductive to taking a break.
    choose an activity you enjoy that can help to relieve stress
 
 **Suggestions:**
-REading a good book, or joining a book club, can be a positive distraction
+- Reading a good book, or joining a book club, can be a positive distraction
 
-Try cooking new healthy recipes
+- Try cooking new healthy recipes
 
-Dancing, running, playing music -dive into these and other activities you think could be fun
+- Dancing, running, playing music -dive into these and other activities you think could be fun
 
 
 ### Name
