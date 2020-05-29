@@ -61,4 +61,4 @@ negative thought patterns.
  - reach out to an old friends or family member you haven't spoken with in a while
 
 
-![4-steps-control-stress.png](img/post/4-steps-control-stress.png)
+![4-steps-control-stress.png](https://freerambo.github.io/img/post/4-steps-control-stress.png)
