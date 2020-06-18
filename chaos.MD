@@ -198,3 +198,16 @@ We had a discussion internally and decided that we would pull out the deprioriti
 On a different note – due to frequent last minute re-prioritizations from other stakeholders, feature F14053 has been dragged over multiple releases starting from 20.02. This is one of the features requested by ANZ and it was continuously pushed to subsequent releases for 4 times due to either product decisions or delays from CMLS team. At all times, COFDS team needs to work with PM & VDP teams, convince them the rationale behind the last minute change, update Swagger files, etc. We believe that this is extra work and it would be great if product team can socialize these changes upfront so we have enough time to work on the changes.
  
 With the latest prioritization decision, COFDS QA team is in jeopardy as we have to pull out the code for the aforementioned 2 features from the source and do the regressions again in both VMs and containers by EOD. We wish if the product team gives more focus on this matter in future and agree to a model whereby everyone can utilize their time effectively in the course of project delivery.
+
+
+
+
+Wow! Many congratz  to you and to your wife! He is super cute. Already seems to be deep in thought how to solve the next SRC challenges like his dad. Very nice photo!
+ 
+Congratulations once again. Wish Adidev a very healthy and happy life ahead! Hope he and his mon are doing great.
+ 
+ 
+ 
+ 
+ 
+ https://fundnel.com/blog/fundnel-spotlight-blockchain-and-cryptocurrency-investing-fad-or-immutable-infrastructure/
