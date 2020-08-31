@@ -39,6 +39,14 @@ x删除光标所在的字符
 u取消上一次编辑操作（undo）
 
 
+mac - The basic syntax for diff at the command line is as follows:
+
+```
+diff (file input 1) (file input 2)
+```
+
+
+
 ---
 
 ### END
