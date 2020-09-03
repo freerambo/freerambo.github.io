@@ -58,3 +58,5 @@ totally present in the conversation and avoid the multi-tasking
 turn off your phone and make direct eye context 
 
 take time to think and reflect 
+
+编程的本质是对这个事件的抽象建模
